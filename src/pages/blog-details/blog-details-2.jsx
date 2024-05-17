@@ -89,7 +89,7 @@ const BlogDetailsTwo = () => {
                         <p>
                           Business Hub provides invaluable assistance to
                           companies during their establishment phase. Whether
-                          it's navigating legal requirements, structuring the
+                          it s navigating legal requirements, structuring the
                           business entity, or preparing essential documentation,
                           Business Hub offers tailored guidance to ensure a
                           smooth and compliant setup process. By leveraging its
@@ -113,7 +113,7 @@ const BlogDetailsTwo = () => {
                         <h6>Management solutions:</h6>
                         <p>
                           Business Hub is a strategic partner in managing
-                          various aspects of the company's operations. From
+                          various aspects of the company s operations. From
                           finance and administrative management to human
                           resources and marketing, Business Hub offers
                           customized solutions to streamline operations, enhance
@@ -127,7 +127,7 @@ const BlogDetailsTwo = () => {
                         <p>
                           One of the main advantages of partnering with Business
                           Hub is access to a wide network of resources and
-                          relationships. Whether it's obtaining financing,
+                          relationships. Whether it s obtaining financing,
                           forming strategic partnerships, or tapping into
                           industry expertise, Business Hub provides companies
                           with the resources they need to succeed in a
@@ -139,7 +139,7 @@ const BlogDetailsTwo = () => {
                         <p>
                           Business Hub provides ongoing support and guidance to
                           companies at every stage of their journey. Whether
-                          it's adapting to changes in the market, expanding into
+                          it s adapting to changes in the market, expanding into
                           new markets, or dealing with regulatory complexities,
                           Business Hub provides ongoing support to ensure
                           companies remain empowered and able to achieve
